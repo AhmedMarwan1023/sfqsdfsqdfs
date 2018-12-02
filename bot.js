@@ -7,8 +7,8 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "518481035063984129"; // ايدي السررفر
-var channel = "518494413274611732";//ايدي الروم
+var server = "518739877890752523"; // ايدي السررفر
+var channel = "518740540251045888";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,#vM , Relo , #vM , Memo , #Venom , Network ! ,')
     },305);
